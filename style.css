@@ -1,0 +1,22 @@
+section{
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#textDiv{
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+#bulbOn{
+    width: 200px;
+    height: 320px;
+    cursor: pointer;
+}
